@@ -27,9 +27,3 @@ O projeto é composto pelas seguintes classes principais:
 - **Calcular Valor Total por Categoria:** Calcula o valor total dos produtos pertencentes a uma determinada categoria.
 - **Buscar Produtos por Categoria:** Retorna uma lista de produtos que pertencem a uma categoria específica.
 
-## Como Executar
-
-1. Compile as classes Java:
-
-   ```bash
-   javac Teste.java
